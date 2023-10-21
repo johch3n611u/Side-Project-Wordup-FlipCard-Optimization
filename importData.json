@@ -1,0 +1,1821 @@
+{
+    "cards": [
+        {
+            "id": 634195,
+            "word": "zodiac",
+            "created_at": "2019-09-19T23:10:35.494+08:00",
+            "updated_at": "2019-09-19T23:10:35.494+08:00",
+            "text_content": {
+                "explanations": [
+                    {
+                        "word_types": [
+                            "n"
+                        ],
+                        "translations": [
+                            "黃道帶"
+                        ],
+                        "sentences": [
+                            "With his parents disappointed, he had to give up his study of zodiac signs.",
+                            "由於他的父母很失望，他不得不放棄對黃道十二宮的研究。"
+                        ],
+                        "notes": [
+                            "[衍生字] zodiacal adj.黃道帶的",
+                            "[片語] signs of the zodiac 黃道十二宮",
+                            "[文法重點] with、without + 受詞 + 受詞補足語，表示伴隨狀況。受詞通常為名詞或代名詞（如果是用代名詞，要用其受詞形式）。如例句所示。"
+                        ]
+                    }
+                ]
+            },
+            "tags": [],
+            "owner_id": 8142,
+            "word_root": null,
+            "notes": [],
+            "audio_urls": {
+                "us": [
+                    {
+                        "audio_url": "https://speech.wordup.com.tw/eb3a91680fc3b69dea18f244f233877be668ed0d4ae0a05eebf11ede2a42db0b.mp3"
+                    }
+                ],
+                "uk": [
+                    {
+                        "audio_url": "https://speech.wordup.com.tw/b10ddcfc82a53ae70be7814eda3dbc53758e2de596d717c695356b0ac16f9a36.mp3"
+                    }
+                ]
+            },
+            "phonetics": {
+                "us": [
+                    {
+                        "phonetic": "ˋzodɪ͵æk"
+                    }
+                ],
+                "uk": [
+                    {
+                        "phonetic": "ˋzəudiæk"
+                    }
+                ]
+            },
+            "language": "en",
+            "word_roots": [],
+            "position": 1,
+            "deck_section_id": 50246,
+            "deck_id": 11669395,
+            "student_note": null,
+            "score": 0
+        },
+        {
+            "id": 634194,
+            "word": "zenith",
+            "created_at": "2019-09-19T23:10:35.395+08:00",
+            "updated_at": "2019-09-19T23:10:35.395+08:00",
+            "text_content": {
+                "explanations": [
+                    {
+                        "word_types": [
+                            "n"
+                        ],
+                        "translations": [
+                            "天頂，頂點，最高點"
+                        ],
+                        "sentences": [
+                            "The politician reached the zenith of his influence at the age of 55.",
+                            "在五十五歲時，那位政客的影響力達到了頂峰。"
+                        ],
+                        "notes": [
+                            "[衍生字] zenithal adj.天頂的",
+                            "[片語] reach the zenith of...達到⋯⋯頂峰"
+                        ]
+                    }
+                ]
+            },
+            "tags": [],
+            "owner_id": 8142,
+            "word_root": null,
+            "notes": [],
+            "audio_urls": {
+                "us": [
+                    {
+                        "audio_url": "https://speech.wordup.com.tw/3cd70e6c91745eee9ce7e7a33897f11a38a409133c116d3bf099d4b7432429a3.mp3"
+                    }
+                ],
+                "uk": [
+                    {
+                        "audio_url": "https://speech.wordup.com.tw/5c353bdcaec0b2345205893c8ca2e5cc3a28587503a04ee8c55c23905044fcea.mp3"
+                    }
+                ]
+            },
+            "phonetics": {
+                "us": [
+                    {
+                        "phonetic": "ˋzinɪθ"
+                    }
+                ],
+                "uk": [
+                    {
+                        "phonetic": "ˋzi:niθ"
+                    }
+                ]
+            },
+            "language": "en",
+            "word_roots": [],
+            "position": 2,
+            "deck_section_id": 50246,
+            "deck_id": 11669395,
+            "student_note": null,
+            "score": 0
+        },
+        {
+            "id": 634193,
+            "word": "yoke",
+            "created_at": "2019-09-19T23:10:35.288+08:00",
+            "updated_at": "2019-09-19T23:10:35.288+08:00",
+            "text_content": {
+                "explanations": [
+                    {
+                        "word_types": [
+                            "n",
+                            "v"
+                        ],
+                        "translations": [
+                            "n: 束縛，軛",
+                            "v: 給⋯⋯上軛；使結合"
+                        ],
+                        "sentences": [
+                            "The Africans dreamed of throwing off the yoke of slavery.",
+                            "那些非洲人夢想著擺脫奴隸制的枷鎖。",
+                            "The farmers yoked oxen together before ploughing the field.",
+                            "在犁地之前，農民們用軛把牛套在一起。",
+                            "Rumor has it that Tom and Jane have been yoked together in marriage.",
+                            "有傳言說，湯姆和珍結婚了。"
+                        ],
+                        "notes": [
+                            "[片語] under the yoke of...受⋯⋯的控制",
+                            "[記憶法] 他們開玩笑（joke）說讓他去給牛上軛（yoke）。"
+                        ]
+                    }
+                ]
+            },
+            "tags": [],
+            "owner_id": 8142,
+            "word_root": null,
+            "notes": [],
+            "audio_urls": {
+                "us": [
+                    {
+                        "audio_url": "https://speech.wordup.com.tw/efb5f17b5afabcb50b8425ed51d7841336fc72154ef8a6862dadfc1d693f1e6e.mp3"
+                    }
+                ],
+                "uk": [
+                    {
+                        "audio_url": "https://speech.wordup.com.tw/bef9a0a8c3394f1281af051249063a69b57bb94b099bae2b49d7ecfe135ad811.mp3"
+                    }
+                ]
+            },
+            "phonetics": {
+                "us": [
+                    {
+                        "phonetic": "jok"
+                    }
+                ],
+                "uk": []
+            },
+            "language": "en",
+            "word_roots": [],
+            "position": 3,
+            "deck_section_id": 50246,
+            "deck_id": 11669395,
+            "student_note": null,
+            "score": 0
+        },
+        {
+            "id": 634192,
+            "word": "yeast",
+            "created_at": "2019-09-19T23:10:35.188+08:00",
+            "updated_at": "2019-09-19T23:10:35.188+08:00",
+            "text_content": {
+                "explanations": [
+                    {
+                        "word_types": [
+                            "n"
+                        ],
+                        "translations": [
+                            "酵母，發酵物"
+                        ],
+                        "sentences": [
+                            "To tell you the truth, she has no idea how to use yeast.",
+                            "坦白說，她不知道該怎麼用發酵粉。"
+                        ],
+                        "notes": [
+                            "[衍生字] yeasty adj.發酵的",
+                            "[片語] baker's yeast 發麵用酵母",
+                            "[文法重點] 一些帶to 的不定式，可以視為固定片語，多用來表明說話人的立場、觀點，在句中作獨立成分，而不必有邏輯主詞。如例句中的to tell you the truth。"
+                        ]
+                    }
+                ]
+            },
+            "tags": [],
+            "owner_id": 8142,
+            "word_root": null,
+            "notes": [],
+            "audio_urls": {
+                "us": [
+                    {
+                        "audio_url": "https://speech.wordup.com.tw/8eea0e3637990b8a7fb0c2ad3eccb2214bc0e6f4f86c9c3b58ca631019f9e021.mp3"
+                    }
+                ],
+                "uk": [
+                    {
+                        "audio_url": "https://speech.wordup.com.tw/562ae91b1df19b1c800ee30e486c47b4fe6a9d138581eff696468480fe598dbd.mp3"
+                    }
+                ]
+            },
+            "phonetics": {
+                "us": [
+                    {
+                        "phonetic": "jist"
+                    },
+                    {
+                        "phonetic": "ˋjist͵bɪtn"
+                    }
+                ],
+                "uk": [
+                    {
+                        "phonetic": "ji:st"
+                    },
+                    {
+                        "phonetic": "ˋji:stˋbitn"
+                    }
+                ]
+            },
+            "language": "en",
+            "word_roots": [],
+            "position": 4,
+            "deck_section_id": 50246,
+            "deck_id": 11669395,
+            "student_note": null,
+            "score": 0
+        },
+        {
+            "id": 634191,
+            "word": "xerox",
+            "created_at": "2019-09-19T23:10:35.110+08:00",
+            "updated_at": "2019-09-19T23:10:35.110+08:00",
+            "text_content": {
+                "explanations": [
+                    {
+                        "word_types": [
+                            "n",
+                            "v"
+                        ],
+                        "translations": [
+                            "複印，影印"
+                        ],
+                        "sentences": [
+                            "My advice to you would be to make a couple of xeroxes of the contract beforehand.",
+                            "我建議你，提前複製好合約的影印件。",
+                            "I'm wondering if you could help me xerox the document.",
+                            "我想知道，你能否幫我複印這份檔。"
+                        ],
+                        "notes": [
+                            "[學習重點] xerox用作動詞，可以用作及物動詞或是不及物動詞。",
+                            "[片語] Xerox machine（乾式）影印機"
+                        ]
+                    }
+                ]
+            },
+            "tags": [],
+            "owner_id": 8142,
+            "word_root": null,
+            "notes": [],
+            "audio_urls": {
+                "us": [
+                    {
+                        "audio_url": "https://speech.wordup.com.tw/4e34dc3f2e6a9863dab9bf132a8c178512b0882b0698d0fe20ee4e34c3358a16.mp3"
+                    }
+                ],
+                "uk": [
+                    {
+                        "audio_url": "https://speech.wordup.com.tw/79e65b92b4264a33ee4ffe0d9eaab7b22740e90167043c62fb9e845f6f179fad.mp3"
+                    }
+                ]
+            },
+            "phonetics": {
+                "us": [
+                    {
+                        "phonetic": "ˋzɪrɑks"
+                    }
+                ],
+                "uk": [
+                    {
+                        "phonetic": "ˋziərɔks"
+                    }
+                ]
+            },
+            "language": "en",
+            "word_roots": [],
+            "position": 5,
+            "deck_section_id": 50246,
+            "deck_id": 11669395,
+            "student_note": null,
+            "score": 0
+        },
+        {
+            "id": 634190,
+            "word": "windfall",
+            "created_at": "2019-09-19T23:10:34.986+08:00",
+            "updated_at": "2019-09-19T23:10:34.986+08:00",
+            "text_content": {
+                "explanations": [
+                    {
+                        "word_types": [
+                            "n"
+                        ],
+                        "translations": [
+                            "被風吹落的果實；意外的收穫"
+                        ],
+                        "sentences": [
+                            "There being no windfalls in the orchard, they were filled with joy.",
+                            "果園裡沒有果實被風吹落，他們都很高興。",
+                            "We were lucky to get a windfall of 3,000 US dollars.",
+                            "我們幸運地得到了三千美元的意外收穫。"
+                        ],
+                        "notes": [
+                            "[片語] windfall profits 意外利潤",
+                            "[記憶法] 此單字中的 wind（風）可延伸出windmill（n風車）。",
+                            "[文法重點] 獨立主格結構轉換為狀語子句時，有自己的邏輯主詞，與主句的主詞不同。例句一可以轉變為原因狀語子句：Since there were no windfalls in the orchard, they were filled with joy.。"
+                        ]
+                    }
+                ]
+            },
+            "tags": [],
+            "owner_id": 8142,
+            "word_root": null,
+            "notes": [],
+            "audio_urls": {
+                "us": [
+                    {
+                        "audio_url": "https://speech.wordup.com.tw/1981aaeff4fc56d43d1343ddee87bbb757ac80d9836998a10ccebd6fc244c713.mp3"
+                    }
+                ],
+                "uk": [
+                    {
+                        "audio_url": "https://speech.wordup.com.tw/e8e7e27740285cf5450c585067064e19b1233a6d857ff26575c6b5dea617eef5.mp3"
+                    }
+                ]
+            },
+            "phonetics": {
+                "us": [
+                    {
+                        "phonetic": "ˋwɪnd͵fɔl"
+                    }
+                ],
+                "uk": [
+                    {
+                        "phonetic": "ˋwind͵fɔ:l"
+                    }
+                ]
+            },
+            "language": "en",
+            "word_roots": [],
+            "position": 6,
+            "deck_section_id": 50246,
+            "deck_id": 11669395,
+            "student_note": null,
+            "score": 0
+        },
+        {
+            "id": 634189,
+            "word": "wedge",
+            "created_at": "2019-09-19T23:10:34.908+08:00",
+            "updated_at": "2019-09-19T23:10:34.908+08:00",
+            "text_content": {
+                "explanations": [
+                    {
+                        "word_types": [
+                            "v"
+                        ],
+                        "translations": [
+                            "卡住"
+                        ],
+                        "sentences": [
+                            "The dog's leg was wedged in the narrow crack.",
+                            "這個小狗的腿卡在那狹縫裡了。"
+                        ],
+                        "notes": [
+                            "[學習重點] wedge用作比喻指可以逐漸擴大作用的開端。",
+                            "[記憶法] 此單字中的 wed（v娶；嫁）一詞，可延伸出 Wednesday（n星期三）。"
+                        ]
+                    }
+                ]
+            },
+            "tags": [],
+            "owner_id": 8142,
+            "word_root": null,
+            "notes": [],
+            "audio_urls": {
+                "us": [
+                    {
+                        "audio_url": "https://speech.wordup.com.tw/2a712c677e0a96d8d506a986916a223ed5cd438aeb9b9dc9678c7fc8f7c76bef.mp3"
+                    }
+                ],
+                "uk": [
+                    {
+                        "audio_url": "https://speech.wordup.com.tw/2bfe388b6d2ebf6f9701f5453648dff02e81f075a7a5566478f2b119d815c49a.mp3"
+                    }
+                ]
+            },
+            "phonetics": {
+                "us": [
+                    {
+                        "phonetic": "wɛdʒ"
+                    }
+                ],
+                "uk": [
+                    {
+                        "phonetic": "wedʒ"
+                    }
+                ]
+            },
+            "language": "en",
+            "word_roots": [],
+            "position": 7,
+            "deck_section_id": 50246,
+            "deck_id": 11669395,
+            "student_note": null,
+            "score": 0
+        },
+        {
+            "id": 634188,
+            "word": "warrant",
+            "created_at": "2019-09-19T23:10:34.837+08:00",
+            "updated_at": "2019-09-19T23:10:34.837+08:00",
+            "text_content": {
+                "explanations": [
+                    {
+                        "word_types": [
+                            "n",
+                            "v"
+                        ],
+                        "translations": [
+                            "n: 授權命令；根據",
+                            "v: 保證"
+                        ],
+                        "sentences": [
+                            "The guy was scared when he saw the police's warrant for him.",
+                            "這個傢伙看到員警對他的逮捕令就嚇壞了。",
+                            "There is no warrant for what he said.",
+                            "他說的話毫無道理可言。",
+                            "I was unable to warrant that it would not reoccur.",
+                            "我不能保證這種事情不會再發生。"
+                        ],
+                        "notes": [
+                            "[學習重點] warrant指有充分的理由或有必要做某事。",
+                            "[片語] I’ll warrant 我敢說"
+                        ]
+                    }
+                ]
+            },
+            "tags": [],
+            "owner_id": 8142,
+            "word_root": null,
+            "notes": [],
+            "audio_urls": {
+                "us": [
+                    {
+                        "audio_url": "https://speech.wordup.com.tw/aa30a47239ee15501f929b2015254321f5982cf556b544df8c3b9757577ccf1b.mp3"
+                    }
+                ],
+                "uk": [
+                    {
+                        "audio_url": "https://speech.wordup.com.tw/7598e04522b0bdb9346eaef33eef185589b1873f16db81d0cf1d166c24bd48b2.mp3"
+                    }
+                ]
+            },
+            "phonetics": {
+                "us": [
+                    {
+                        "phonetic": "ˋwɔrənt"
+                    }
+                ],
+                "uk": [
+                    {
+                        "phonetic": "ˋwɔ:rənt"
+                    }
+                ]
+            },
+            "language": "en",
+            "word_roots": [],
+            "position": 8,
+            "deck_section_id": 50246,
+            "deck_id": 11669395,
+            "student_note": null,
+            "score": 0
+        },
+        {
+            "id": 634187,
+            "word": "vicissitude",
+            "created_at": "2019-09-19T23:10:34.743+08:00",
+            "updated_at": "2019-09-19T23:10:34.743+08:00",
+            "text_content": {
+                "explanations": [
+                    {
+                        "word_types": [
+                            "n"
+                        ],
+                        "translations": [
+                            "改變，變壞"
+                        ],
+                        "sentences": [
+                            "Hannah doesn't have the courage to battle against the vicissitudes of life.",
+                            "漢娜沒有勇氣對抗每況愈下的生活。"
+                        ],
+                        "notes": [
+                            "[學習重點] 可數名詞 vicissitude通常用於正式文體中，且多用複數形式 vicissitudes。",
+                            "[片語] a life full of vicissitudes 飽經滄桑的一生"
+                        ]
+                    }
+                ]
+            },
+            "tags": [],
+            "owner_id": 8142,
+            "word_root": null,
+            "notes": [],
+            "audio_urls": {
+                "us": [
+                    {
+                        "audio_url": "https://speech.wordup.com.tw/119ac21ac4df72bd630252838c96708206d5d982f7b1bb99152593b9dac937fa.mp3"
+                    }
+                ],
+                "uk": [
+                    {
+                        "audio_url": "https://speech.wordup.com.tw/9fd162e4b04aa52b7b0ff95dda2532b12a06bf248115b61e88043cc00c48bf9f.mp3"
+                    }
+                ]
+            },
+            "phonetics": {
+                "us": [
+                    {
+                        "phonetic": "vəˋsɪsə͵tjud"
+                    }
+                ],
+                "uk": [
+                    {
+                        "phonetic": "viˋsisitju:d"
+                    }
+                ]
+            },
+            "language": "en",
+            "word_roots": [],
+            "position": 9,
+            "deck_section_id": 50246,
+            "deck_id": 11669395,
+            "student_note": null,
+            "score": 0
+        },
+        {
+            "id": 634186,
+            "word": "vexation",
+            "created_at": "2019-09-19T23:10:34.670+08:00",
+            "updated_at": "2019-09-19T23:10:34.670+08:00",
+            "text_content": {
+                "explanations": [
+                    {
+                        "word_types": [
+                            "n"
+                        ],
+                        "translations": [
+                            "煩惱"
+                        ],
+                        "sentences": [
+                            "With so many things to settle, she could not help crying in vexation.",
+                            "有這麼多事情要做，讓她很煩惱得忍不住哭起來。"
+                        ],
+                        "notes": [
+                            "[衍生字] vex v.使生氣，使惱怒",
+                            "[片語] in vexation 煩惱的",
+                            "[文法重點] 在獨立主格結構中，動詞不定式表示動作沒有發生或即將發生（如例句所示），動詞-ing 形式則表示動作正在進行；而動詞-ed 形式則表示動作已經結束。"
+                        ]
+                    }
+                ]
+            },
+            "tags": [],
+            "owner_id": 8142,
+            "word_root": null,
+            "notes": [],
+            "audio_urls": {
+                "us": [
+                    {
+                        "audio_url": "https://speech.wordup.com.tw/01ee7d591231dabd8007304622817f69c9d800c502e4a41d300230f8883632a7.mp3"
+                    }
+                ],
+                "uk": [
+                    {
+                        "audio_url": "https://speech.wordup.com.tw/b55e7489ed3016c4850c6bd4aaa5184e06c558747b918394c09e545d31ed9086.mp3"
+                    }
+                ]
+            },
+            "phonetics": {
+                "us": [
+                    {
+                        "phonetic": "vɛkˋseʃən"
+                    }
+                ],
+                "uk": [
+                    {
+                        "phonetic": "vekˋseiʃən"
+                    }
+                ]
+            },
+            "language": "en",
+            "word_roots": [],
+            "position": 10,
+            "deck_section_id": 50246,
+            "deck_id": 11669395,
+            "student_note": null,
+            "score": 0
+        },
+        {
+            "id": 634185,
+            "word": "vestige",
+            "created_at": "2019-09-19T23:10:34.594+08:00",
+            "updated_at": "2019-09-19T23:10:34.594+08:00",
+            "text_content": {
+                "explanations": [
+                    {
+                        "word_types": [
+                            "n"
+                        ],
+                        "translations": [
+                            "遺跡，痕跡；毫無，一點也不"
+                        ],
+                        "sentences": [
+                            "There remains not a vestige of the ancient museum.",
+                            "那個古老的博物館遺跡已經蕩然無存。",
+                            "The pity of it is that we could not find a vestige of common sense in his theory.",
+                            "遺憾的是，我們發現，他的理論毫無常識。"
+                        ],
+                        "notes": [
+                            "[衍生字] vestigial adj.殘留的",
+                            "[片語] without a vestige of...沒有一點⋯⋯"
+                        ]
+                    }
+                ]
+            },
+            "tags": [],
+            "owner_id": 8142,
+            "word_root": null,
+            "notes": [],
+            "audio_urls": {
+                "us": [
+                    {
+                        "audio_url": "https://speech.wordup.com.tw/49c27f6c344e821766b58172cbf2c19468418f4c8ae973429e2254ac70f38867.mp3"
+                    }
+                ],
+                "uk": [
+                    {
+                        "audio_url": "https://speech.wordup.com.tw/679f997609e4d35e60535e2b2cd75647d1b1ec0234c29770a82be2904e9d158b.mp3"
+                    }
+                ]
+            },
+            "phonetics": {
+                "us": [
+                    {
+                        "phonetic": "ˋvɛstɪdʒ"
+                    }
+                ],
+                "uk": [
+                    {
+                        "phonetic": "ˋvestidʒ"
+                    }
+                ]
+            },
+            "language": "en",
+            "word_roots": [],
+            "position": 11,
+            "deck_section_id": 50246,
+            "deck_id": 11669395,
+            "student_note": null,
+            "score": 0
+        },
+        {
+            "id": 634184,
+            "word": "vernacular",
+            "created_at": "2019-09-19T23:10:34.511+08:00",
+            "updated_at": "2019-09-19T23:10:34.511+08:00",
+            "text_content": {
+                "explanations": [
+                    {
+                        "word_types": [
+                            "n"
+                        ],
+                        "translations": [
+                            "本國語，本地語"
+                        ],
+                        "sentences": [
+                            "My work done, we could carry out research into vernacular literature.",
+                            "我的工作已經完成了，我們可以對本國語創作的文學作品進行研究。"
+                        ],
+                        "notes": [
+                            "[學習重點] 可數名詞vernacular 通常用作名詞定語，或是與定冠詞the 連用。",
+                            "[片語] vernacular language 土話，本國語",
+                            "[文法重點] 例句中的my work done，是獨立主格結構用作狀語，相當於狀語子句since my work has been done。"
+                        ]
+                    }
+                ]
+            },
+            "tags": [],
+            "owner_id": 8142,
+            "word_root": null,
+            "notes": [],
+            "audio_urls": {
+                "us": [
+                    {
+                        "audio_url": "https://speech.wordup.com.tw/fd28eb9189a9141752601a9376e0d23df44855a1ad5066e88e3e07bf681f23a8.mp3"
+                    }
+                ],
+                "uk": [
+                    {
+                        "audio_url": "https://speech.wordup.com.tw/d586011fc1e2f00d688db889c4c90162822031f69b9aea13363c334de591ae49.mp3"
+                    }
+                ]
+            },
+            "phonetics": {
+                "us": [
+                    {
+                        "phonetic": "vɚˋnækjəlɚ"
+                    }
+                ],
+                "uk": [
+                    {
+                        "phonetic": "vəˋnækjulə"
+                    }
+                ]
+            },
+            "language": "en",
+            "word_roots": [],
+            "position": 12,
+            "deck_section_id": 50246,
+            "deck_id": 11669395,
+            "student_note": null,
+            "score": 0
+        },
+        {
+            "id": 634183,
+            "word": "ventilation",
+            "created_at": "2019-09-19T23:10:34.419+08:00",
+            "updated_at": "2019-09-19T23:10:34.419+08:00",
+            "text_content": {
+                "explanations": [
+                    {
+                        "word_types": [
+                            "n"
+                        ],
+                        "translations": [
+                            "通風，空氣流通"
+                        ],
+                        "sentences": [
+                            "The ventilation shaft of the coal-mine appears to be out of order.",
+                            "煤礦的通風豎井似乎出了問題。"
+                        ],
+                        "notes": [
+                            "[衍生字] ventilate v.通風，使空氣流通",
+                            "[片語] a room with good / poor ventilation 通風良好 / 不佳的房間"
+                        ]
+                    }
+                ]
+            },
+            "tags": [],
+            "owner_id": 8142,
+            "word_root": null,
+            "notes": [],
+            "audio_urls": {
+                "us": [
+                    {
+                        "audio_url": "https://speech.wordup.com.tw/56395a1c3c1072a16868576a0ad2de4aa6601ba3e2cd972df74980317e9fd988.mp3"
+                    }
+                ],
+                "uk": [
+                    {
+                        "audio_url": "https://speech.wordup.com.tw/6a44a9b7032734f5f25993a999c3b197047842deddb63857bd0f86ad287813ba.mp3"
+                    }
+                ]
+            },
+            "phonetics": {
+                "us": [
+                    {
+                        "phonetic": "͵vɛnt!ˋeʃən"
+                    }
+                ],
+                "uk": [
+                    {
+                        "phonetic": "͵ventiˋleiʃən"
+                    }
+                ]
+            },
+            "language": "en",
+            "word_roots": [],
+            "position": 13,
+            "deck_section_id": 50246,
+            "deck_id": 11669395,
+            "student_note": null,
+            "score": 0
+        },
+        {
+            "id": 634182,
+            "word": "vehement",
+            "created_at": "2019-09-19T23:10:34.338+08:00",
+            "updated_at": "2019-09-19T23:10:34.338+08:00",
+            "text_content": {
+                "explanations": [
+                    {
+                        "word_types": [
+                            "adj"
+                        ],
+                        "translations": [
+                            "熱情的，感情強烈的"
+                        ],
+                        "sentences": [
+                            "They lodged a vehement objection to investing in the firm.",
+                            "他們強烈反對投資這家公司。"
+                        ],
+                        "notes": [
+                            "[衍生字] vehemence n.熱烈",
+                            "[片語] a man of vehement character 性情激烈的人"
+                        ]
+                    }
+                ]
+            },
+            "tags": [],
+            "owner_id": 8142,
+            "word_root": null,
+            "notes": [],
+            "audio_urls": {
+                "us": [
+                    {
+                        "audio_url": "https://speech.wordup.com.tw/8b2bb2092455f8886144f4671c9a024152c21846453b6da8003645c5f781aa12.mp3"
+                    }
+                ],
+                "uk": [
+                    {
+                        "audio_url": "https://speech.wordup.com.tw/5978acd3516e96cb262ea64656f0402b83582c15cd936c805b45855f2285730c.mp3"
+                    }
+                ]
+            },
+            "phonetics": {
+                "us": [
+                    {
+                        "phonetic": "ˋviəmənt"
+                    }
+                ],
+                "uk": [
+                    {
+                        "phonetic": "ˋvi:imənt"
+                    }
+                ]
+            },
+            "language": "en",
+            "word_roots": [],
+            "position": 14,
+            "deck_section_id": 50246,
+            "deck_id": 11669395,
+            "student_note": null,
+            "score": 0
+        },
+        {
+            "id": 634181,
+            "word": "vegetarian",
+            "created_at": "2019-09-19T23:10:34.262+08:00",
+            "updated_at": "2019-09-19T23:10:34.262+08:00",
+            "text_content": {
+                "explanations": [
+                    {
+                        "word_types": [
+                            "n"
+                        ],
+                        "translations": [
+                            "素食者"
+                        ],
+                        "sentences": [
+                            "That vegetarian likes pop music and classical music.",
+                            "那位素食者喜歡流行音樂和古典音樂。"
+                        ],
+                        "notes": [
+                            "[衍生字] vegetarianism n.素食主義",
+                            "[學習重點] 在英式英語口語中，vegetarian也可以用作 veggie。",
+                            "[文法重點] 在英語句子中，重複的名詞、名詞片語可以進行省略。例句中的music 可以省略。"
+                        ]
+                    }
+                ]
+            },
+            "tags": [],
+            "owner_id": 8142,
+            "word_root": null,
+            "notes": [],
+            "audio_urls": {
+                "us": [
+                    {
+                        "audio_url": "https://speech.wordup.com.tw/1112930a4bfb6c73738a3e30be1fd0759ab1f08caf50b20cf89f94f923471287.mp3"
+                    }
+                ],
+                "uk": [
+                    {
+                        "audio_url": "https://speech.wordup.com.tw/57d9b018b5eda74f6930abceb4998919f557670750e20d20726100d061f11ab4.mp3"
+                    }
+                ]
+            },
+            "phonetics": {
+                "us": [
+                    {
+                        "phonetic": "͵vɛdʒəˋtɛrɪən"
+                    }
+                ],
+                "uk": [
+                    {
+                        "phonetic": "͵vedʒiˋtɛəriən"
+                    }
+                ]
+            },
+            "language": "en",
+            "word_roots": [],
+            "position": 15,
+            "deck_section_id": 50246,
+            "deck_id": 11669395,
+            "student_note": null,
+            "score": 0
+        },
+        {
+            "id": 634180,
+            "word": "vaccine",
+            "created_at": "2019-09-19T23:10:34.179+08:00",
+            "updated_at": "2019-09-19T23:10:34.179+08:00",
+            "text_content": {
+                "explanations": [
+                    {
+                        "word_types": [
+                            "n"
+                        ],
+                        "translations": [
+                            "疫苗"
+                        ],
+                        "sentences": [
+                            "They finally succeeded in developing a smallpox vaccine.",
+                            "他們最終成功地培育出了天花疫苗。"
+                        ],
+                        "notes": [
+                            "[學習重點] vaccine可以用作可數名詞或是不可數名詞，多與介系詞 against連用。",
+                            "[片語] hepatitis B virus vaccine B型肝炎病毒疫苗"
+                        ]
+                    }
+                ]
+            },
+            "tags": [],
+            "owner_id": 8142,
+            "word_root": null,
+            "notes": [],
+            "audio_urls": {
+                "us": [
+                    {
+                        "audio_url": "https://speech.wordup.com.tw/beb5c5b16dda3e9dbcf1ff962c4187d60e9d48c6221ef8bfc2dd5736b1b2a35c.mp3"
+                    }
+                ],
+                "uk": [
+                    {
+                        "audio_url": "https://speech.wordup.com.tw/c1911bf2cf2e162b6035c0206b7b056457125a000e975fcd080f84ac11a4201a.mp3"
+                    }
+                ]
+            },
+            "phonetics": {
+                "us": [
+                    {
+                        "phonetic": "ˋvæksin"
+                    }
+                ],
+                "uk": [
+                    {
+                        "phonetic": "ˋvæksi:n"
+                    }
+                ]
+            },
+            "language": "en",
+            "word_roots": [],
+            "position": 16,
+            "deck_section_id": 50246,
+            "deck_id": 11669395,
+            "student_note": null,
+            "score": 0
+        },
+        {
+            "id": 634179,
+            "word": "utensil",
+            "created_at": "2019-09-19T23:10:34.086+08:00",
+            "updated_at": "2019-09-19T23:10:34.086+08:00",
+            "text_content": {
+                "explanations": [
+                    {
+                        "word_types": [
+                            "n"
+                        ],
+                        "translations": [
+                            "用具，器皿"
+                        ],
+                        "sentences": [
+                            "The best utensil for keeping things fresh is a refrigerator because its temperature is adjustable.",
+                            "冰箱是最好的保鮮工具，因為他的溫度可以調節。"
+                        ],
+                        "notes": [
+                            "[學習重點] tensil一詞主要用於指廚房裡所使用的用具。",
+                            "[記憶法] 字根 util表示「用」的意思。"
+                        ]
+                    }
+                ]
+            },
+            "tags": [],
+            "owner_id": 8142,
+            "word_root": null,
+            "notes": [],
+            "audio_urls": {
+                "us": [
+                    {
+                        "audio_url": "https://speech.wordup.com.tw/ac622d4719f2db1dc6f75fcb8a5648364e7dd8aaddf5286449cee9b9843028cf.mp3"
+                    }
+                ],
+                "uk": [
+                    {
+                        "audio_url": "https://speech.wordup.com.tw/588e15a75a182257f61a1cff26663b3b7501d1d2c146dc8e36188d2a12ffade6.mp3"
+                    }
+                ]
+            },
+            "phonetics": {
+                "us": [
+                    {
+                        "phonetic": "juˋtɛns!"
+                    }
+                ],
+                "uk": [
+                    {
+                        "phonetic": "ju:ˋtensl"
+                    }
+                ]
+            },
+            "language": "en",
+            "word_roots": [],
+            "position": 17,
+            "deck_section_id": 50246,
+            "deck_id": 11669395,
+            "student_note": null,
+            "score": 0
+        },
+        {
+            "id": 634178,
+            "word": "uproar",
+            "created_at": "2019-09-19T23:10:34.003+08:00",
+            "updated_at": "2019-09-19T23:10:34.003+08:00",
+            "text_content": {
+                "explanations": [
+                    {
+                        "word_types": [
+                            "n"
+                        ],
+                        "translations": [
+                            "喧鬧，轟鳴"
+                        ],
+                        "sentences": [
+                            "They made such an enormous uproar that they woke the whole house.",
+                            "他們喧鬧之聲驚醒了全屋子的人。"
+                        ],
+                        "notes": [
+                            "[衍生字] uproarious adj.騷動的",
+                            "[片語] inaudible uproar 聽不見的喧囂",
+                            "[文法重點] such 在這裡是形容詞的詞性，只能用來修飾名詞，與此相比，副詞so 可用來修飾形容詞enormous。"
+                        ]
+                    }
+                ]
+            },
+            "tags": [],
+            "owner_id": 8142,
+            "word_root": null,
+            "notes": [],
+            "audio_urls": {
+                "us": [
+                    {
+                        "audio_url": "https://speech.wordup.com.tw/ef7e89fac4d2de7b29be24002eb1fb0809160f23521b56da68162b310de07e64.mp3"
+                    }
+                ],
+                "uk": [
+                    {
+                        "audio_url": "https://speech.wordup.com.tw/bc92db2612c11d8c9f4d774ce7b8f07ac147916b42801e30cca1889ae4587454.mp3"
+                    }
+                ]
+            },
+            "phonetics": {
+                "us": [
+                    {
+                        "phonetic": "ˋʌp͵ror"
+                    }
+                ],
+                "uk": [
+                    {
+                        "phonetic": "ˋʌprɔ:"
+                    }
+                ]
+            },
+            "language": "en",
+            "word_roots": [],
+            "position": 18,
+            "deck_section_id": 50246,
+            "deck_id": 11669395,
+            "student_note": null,
+            "score": 0
+        },
+        {
+            "id": 634177,
+            "word": "unscrupulous",
+            "created_at": "2019-09-19T23:10:33.917+08:00",
+            "updated_at": "2019-09-19T23:10:33.917+08:00",
+            "text_content": {
+                "explanations": [
+                    {
+                        "word_types": [
+                            "adj"
+                        ],
+                        "translations": [
+                            "無道德原則的，不講道德的"
+                        ],
+                        "sentences": [
+                            "Under no circumstances should you use unscrupulous methods to deal with rival firms.",
+                            "不論如何，你都不應該用不道德的手段與對手公司競爭。"
+                        ],
+                        "notes": [
+                            "[衍生字] scrupulous adj.審慎的",
+                            "[片語] be unscrupulous in... ⋯⋯不講道德的"
+                        ]
+                    }
+                ]
+            },
+            "tags": [],
+            "owner_id": 8142,
+            "word_root": null,
+            "notes": [],
+            "audio_urls": {
+                "us": [
+                    {
+                        "audio_url": "https://speech.wordup.com.tw/5fc9296cae20164b6d7e522df0d9d343b9869548e7fb9c8600e98516dd8dd6bb.mp3"
+                    }
+                ],
+                "uk": [
+                    {
+                        "audio_url": "https://speech.wordup.com.tw/f1163710b6b82968c7114e09abb18c595a8b821b4f70bf5e1480b0026085bc6e.mp3"
+                    }
+                ]
+            },
+            "phonetics": {
+                "us": [
+                    {
+                        "phonetic": "ʌnˋskrupjələs"
+                    }
+                ],
+                "uk": [
+                    {
+                        "phonetic": "ʌnˋskru:pjuləs"
+                    }
+                ]
+            },
+            "language": "en",
+            "word_roots": [],
+            "position": 19,
+            "deck_section_id": 50246,
+            "deck_id": 11669395,
+            "student_note": null,
+            "score": 0
+        },
+        {
+            "id": 634176,
+            "word": "unethical",
+            "created_at": "2019-09-19T23:10:33.821+08:00",
+            "updated_at": "2019-09-19T23:10:33.821+08:00",
+            "text_content": {
+                "explanations": [
+                    {
+                        "word_types": [
+                            "adj"
+                        ],
+                        "translations": [
+                            "不道德的，無原則的"
+                        ],
+                        "sentences": [
+                            "It would be unethical to be indifferent to the sufferings of refugees.",
+                            "對難民的苦難視而不見，是不道德的。"
+                        ],
+                        "notes": [
+                            "[衍生字] ethical adj.道德的",
+                            "[學習重點] 形容詞 unethical可以用作表語或是名詞的前置定語。"
+                        ]
+                    }
+                ]
+            },
+            "tags": [],
+            "owner_id": 8142,
+            "word_root": null,
+            "notes": [],
+            "audio_urls": {
+                "us": [
+                    {
+                        "audio_url": "https://speech.wordup.com.tw/ff00d2214724ef9db16b8653a530d16e8d9eee641ea43d125910a48d4e23b2f6.mp3"
+                    }
+                ],
+                "uk": [
+                    {
+                        "audio_url": "https://speech.wordup.com.tw/6a43410409058f30f2335fc4fef46911e4a12a8a6921c779878c113ce920d8b5.mp3"
+                    }
+                ]
+            },
+            "phonetics": {
+                "us": [
+                    {
+                        "phonetic": "ʌnˋɛθɪk!"
+                    }
+                ],
+                "uk": [
+                    {
+                        "phonetic": "ʌnˋeθikəl"
+                    }
+                ]
+            },
+            "language": "en",
+            "word_roots": [],
+            "position": 20,
+            "deck_section_id": 50246,
+            "deck_id": 11669395,
+            "student_note": null,
+            "score": 0
+        },
+        {
+            "id": 634175,
+            "word": "undertow",
+            "created_at": "2019-09-19T23:10:33.722+08:00",
+            "updated_at": "2019-09-19T23:10:33.722+08:00",
+            "text_content": {
+                "explanations": [
+                    {
+                        "word_types": [
+                            "n"
+                        ],
+                        "translations": [
+                            "回頭浪，逆流"
+                        ],
+                        "sentences": [
+                            "Down jumped that sailor from the boat when they were caught in an undertow.",
+                            "碰上回流的時候，那個水手從船上跳了下去。"
+                        ],
+                        "notes": [
+                            "[片語] caught in an undertow 碰上回流",
+                            "[記憶法] 此單字中的 tow（拖，拉）可延伸出 tow-bar（n牽引杆）。",
+                            "[文法重點] 表示運動方向的副詞或地點狀語，置於句首，謂語是表示運動的動詞，是完全倒裝結構。如例句所示。"
+                        ]
+                    }
+                ]
+            },
+            "tags": [],
+            "owner_id": 8142,
+            "word_root": null,
+            "notes": [],
+            "audio_urls": {
+                "us": [
+                    {
+                        "audio_url": "https://speech.wordup.com.tw/970b8b852323497f34bd371cdb5e2ad4bd808f097729fe1f6b6786fc0ae3cf4e.mp3"
+                    }
+                ],
+                "uk": [
+                    {
+                        "audio_url": "https://speech.wordup.com.tw/16d1ac0ebbfdbb1a838d273e72eea0bd23591eee3316bdcb4bdb89bdf2500e27.mp3"
+                    }
+                ]
+            },
+            "phonetics": {
+                "us": [
+                    {
+                        "phonetic": "ˋʌndɚto"
+                    }
+                ],
+                "uk": [
+                    {
+                        "phonetic": "ˋʌndətəu"
+                    }
+                ]
+            },
+            "language": "en",
+            "word_roots": [],
+            "position": 21,
+            "deck_section_id": 50246,
+            "deck_id": 11669395,
+            "student_note": null,
+            "score": 0
+        },
+        {
+            "id": 634174,
+            "word": "undermine",
+            "created_at": "2019-09-19T23:10:33.627+08:00",
+            "updated_at": "2019-09-19T23:10:33.627+08:00",
+            "text_content": {
+                "explanations": [
+                    {
+                        "word_types": [
+                            "v"
+                        ],
+                        "translations": [
+                            "破壞"
+                        ],
+                        "sentences": [
+                            "Nothing can undermine the friendship between them for they have been best friends since childhood.",
+                            "沒有什麼能夠破壞他們的友誼，他們從小就是最好的朋友。"
+                        ],
+                        "notes": [
+                            "[衍生字] underminer n.潛挖坑道者；暗中破壞者",
+                            "[學習重點] undermine本身就含有「逐步」的意味，因此不能加副詞 gradually或 suddenly來修飾。"
+                        ]
+                    }
+                ]
+            },
+            "tags": [],
+            "owner_id": 8142,
+            "word_root": null,
+            "notes": [],
+            "audio_urls": {
+                "us": [
+                    {
+                        "audio_url": "https://speech.wordup.com.tw/91a5cd5e25a020b35190a2149f8714c0437eed5aecc29d06e6dfc480dc276f09.mp3"
+                    }
+                ],
+                "uk": [
+                    {
+                        "audio_url": "https://speech.wordup.com.tw/1aa59d60e427a5d34d534df2d37561f7578cec8741a5e213a95a76a2290b10a3.mp3"
+                    }
+                ]
+            },
+            "phonetics": {
+                "us": [
+                    {
+                        "phonetic": "͵ʌndɚˋmaɪn"
+                    }
+                ],
+                "uk": [
+                    {
+                        "phonetic": "͵ʌndəˋmain"
+                    }
+                ]
+            },
+            "language": "en",
+            "word_roots": [],
+            "position": 22,
+            "deck_section_id": 50246,
+            "deck_id": 11669395,
+            "student_note": null,
+            "score": 0
+        },
+        {
+            "id": 634173,
+            "word": "ultraviolet",
+            "created_at": "2019-09-19T23:10:33.530+08:00",
+            "updated_at": "2019-09-19T23:10:33.530+08:00",
+            "text_content": {
+                "explanations": [
+                    {
+                        "word_types": [
+                            "adj"
+                        ],
+                        "translations": [
+                            "紫外的"
+                        ],
+                        "sentences": [
+                            "I'm wondering if the ultraviolet rays will do harm to our skin.",
+                            "我想知道，紫外線光會不會損傷皮膚。"
+                        ],
+                        "notes": [
+                            "[衍生字] violet adj.紫羅蘭色的，藍紫色的",
+                            "[片語] ultraviolet treatment 紫外線療法"
+                        ]
+                    }
+                ]
+            },
+            "tags": [],
+            "owner_id": 8142,
+            "word_root": null,
+            "notes": [],
+            "audio_urls": {
+                "us": [
+                    {
+                        "audio_url": "https://speech.wordup.com.tw/e769b24b08ea065f3e153025d53fef2f9be4182b8ef7b83cfd2afb328c4d6ad0.mp3"
+                    }
+                ],
+                "uk": [
+                    {
+                        "audio_url": "https://speech.wordup.com.tw/5662429af7131ba0e23f8bef7a66929a67ce33b591917ed835f41a2fa397a67f.mp3"
+                    }
+                ]
+            },
+            "phonetics": {
+                "us": [
+                    {
+                        "phonetic": "͵ʌltrəˋvaɪəlɪt"
+                    }
+                ],
+                "uk": [
+                    {
+                        "phonetic": "ˋʌltrəˋvaiəlit"
+                    }
+                ]
+            },
+            "language": "en",
+            "word_roots": [],
+            "position": 23,
+            "deck_section_id": 50246,
+            "deck_id": 11669395,
+            "student_note": null,
+            "score": 0
+        },
+        {
+            "id": 634172,
+            "word": "ultrasonic",
+            "created_at": "2019-09-19T23:10:33.415+08:00",
+            "updated_at": "2019-09-19T23:10:33.415+08:00",
+            "text_content": {
+                "explanations": [
+                    {
+                        "word_types": [
+                            "adj"
+                        ],
+                        "translations": [
+                            "超聲波的"
+                        ],
+                        "sentences": [
+                            "There once lived a worker who was interested in ultrasonic waves.",
+                            "這裡曾經住著一位工人，他對超聲波很有興趣。"
+                        ],
+                        "notes": [
+                            "[片語] ultrasonic vibrations 超聲震動",
+                            "[記憶法] 此單字中的 sonic（音速的）可延伸出 transonic（a接近音速的）。",
+                            "[文法重點] 「there + 動詞」句式中，常用的動詞有live、lie、seem、stand、appear、happen、exist、arise、enter、come、go、remain、exist、rise、occur、flow、arrive、enter、follow 等。如例句所示。"
+                        ]
+                    }
+                ]
+            },
+            "tags": [],
+            "owner_id": 8142,
+            "word_root": null,
+            "notes": [],
+            "audio_urls": {
+                "us": [
+                    {
+                        "audio_url": "https://speech.wordup.com.tw/3d16961c56705494712719019fb5cdda12e17871d8bbfde33c90b0bb237af4b6.mp3"
+                    }
+                ],
+                "uk": [
+                    {
+                        "audio_url": "https://speech.wordup.com.tw/fed4e29c11b628969464feb5689452ba5feabad38cc88e3c96f9e9dd5e604e3f.mp3"
+                    }
+                ]
+            },
+            "phonetics": {
+                "us": [
+                    {
+                        "phonetic": "͵ʌltrəˋsɑnɪk"
+                    }
+                ],
+                "uk": [
+                    {
+                        "phonetic": "͵ʌltrəˋsɔnik"
+                    }
+                ]
+            },
+            "language": "en",
+            "word_roots": [],
+            "position": 24,
+            "deck_section_id": 50246,
+            "deck_id": 11669395,
+            "student_note": null,
+            "score": 0
+        },
+        {
+            "id": 634171,
+            "word": "ultimo",
+            "created_at": "2019-09-19T23:10:33.334+08:00",
+            "updated_at": "2019-09-19T23:10:33.334+08:00",
+            "text_content": {
+                "explanations": [
+                    {
+                        "word_types": [
+                            "adj"
+                        ],
+                        "translations": [
+                            "上月的"
+                        ],
+                        "sentences": [
+                            "The publication date of his latest novel was the 21st ultimo.",
+                            "他的最新小說是於上個月二十一日出版的。"
+                        ],
+                        "notes": [
+                            "[片語] on the 10th ultimo 在上月十日",
+                            "[記憶法] 字根 ultim意為「最後的」。"
+                        ]
+                    }
+                ]
+            },
+            "tags": [],
+            "owner_id": 8142,
+            "word_root": null,
+            "notes": [],
+            "audio_urls": {
+                "us": [
+                    {
+                        "audio_url": "https://speech.wordup.com.tw/b8ccdbc55d605e664f05548d3a49315ca6d2b726a0ef5795b2eb825d2f309281.mp3"
+                    }
+                ],
+                "uk": [
+                    {
+                        "audio_url": "https://speech.wordup.com.tw/d46a2afaa11cf513e6aa64d4f925b9d6e568f9fa5fa947e17704ddab222e5c34.mp3"
+                    }
+                ]
+            },
+            "phonetics": {
+                "us": [
+                    {
+                        "phonetic": "ˋʌltə͵mo"
+                    }
+                ],
+                "uk": [
+                    {
+                        "phonetic": "ˋʌltiməu"
+                    }
+                ]
+            },
+            "language": "en",
+            "word_roots": [],
+            "position": 25,
+            "deck_section_id": 50246,
+            "deck_id": 11669395,
+            "student_note": null,
+            "score": 0
+        },
+        {
+            "id": 634170,
+            "word": "ulcer",
+            "created_at": "2019-09-19T23:10:33.241+08:00",
+            "updated_at": "2019-09-19T23:10:33.241+08:00",
+            "text_content": {
+                "explanations": [
+                    {
+                        "word_types": [
+                            "n"
+                        ],
+                        "translations": [
+                            "潰瘍"
+                        ],
+                        "sentences": [
+                            "She only ate some light food because of her mouth ulcer.",
+                            "她只能吃些清談的食物因為她患了口腔潰瘍。"
+                        ],
+                        "notes": [
+                            "[衍生字] ulcerative adj.潰瘍性的",
+                            "[片語] mouth ulcer 口瘡；口腔潰瘍"
+                        ]
+                    }
+                ]
+            },
+            "tags": [],
+            "owner_id": 8142,
+            "word_root": null,
+            "notes": [],
+            "audio_urls": {
+                "us": [
+                    {
+                        "audio_url": "https://speech.wordup.com.tw/3f2df2267bf30be4c487eb317236871c2b64588e9a0b18db81a2319f7665703f.mp3"
+                    }
+                ],
+                "uk": [
+                    {
+                        "audio_url": "https://speech.wordup.com.tw/6bef74cc20ed96a46e732a3fab428153f3e469a08a0c1daf6fe942a7f0223aa1.mp3"
+                    }
+                ]
+            },
+            "phonetics": {
+                "us": [
+                    {
+                        "phonetic": "ˋʌlsɚ"
+                    }
+                ],
+                "uk": [
+                    {
+                        "phonetic": "ˋʌlsə"
+                    }
+                ]
+            },
+            "language": "en",
+            "word_roots": [],
+            "position": 26,
+            "deck_section_id": 50246,
+            "deck_id": 11669395,
+            "student_note": null,
+            "score": 0
+        },
+        {
+            "id": 634169,
+            "word": "turbine",
+            "created_at": "2019-09-19T23:10:33.145+08:00",
+            "updated_at": "2019-09-19T23:10:33.145+08:00",
+            "text_content": {
+                "explanations": [
+                    {
+                        "word_types": [
+                            "n"
+                        ],
+                        "translations": [
+                            "渦輪機"
+                        ],
+                        "sentences": [
+                            "There remains one question about this turbine.",
+                            "關於這台渦輪機，還有一個問題。"
+                        ],
+                        "notes": [
+                            "[片語] air turbine 空氣渦輪",
+                            "[記憶法] 此單字中的 bine（蔓）可延伸出 woodbine（n忍冬）。",
+                            "[文法重點] 「there + 動詞」句式，只限於表示存在某種狀態、發生某種事或某事、某人到達等動詞，意義比there be 結構更為生動貼切。如例句所示。"
+                        ]
+                    }
+                ]
+            },
+            "tags": [],
+            "owner_id": 8142,
+            "word_root": null,
+            "notes": [],
+            "audio_urls": {
+                "us": [
+                    {
+                        "audio_url": "https://speech.wordup.com.tw/0a4afcd0a6cf3af9013edb62660424c513d83e92954654fd151ecb2430245112.mp3"
+                    }
+                ],
+                "uk": [
+                    {
+                        "audio_url": "https://speech.wordup.com.tw/7b2b3e1b7cb6e2abff13eab40a475307b6e775a68667f8164abb12c48e830a46.mp3"
+                    }
+                ]
+            },
+            "phonetics": {
+                "us": [
+                    {
+                        "phonetic": "ˋtɝbɪn"
+                    }
+                ],
+                "uk": [
+                    {
+                        "phonetic": "ˋtə:bin"
+                    }
+                ]
+            },
+            "language": "en",
+            "word_roots": [],
+            "position": 27,
+            "deck_section_id": 50246,
+            "deck_id": 11669395,
+            "student_note": null,
+            "score": 0
+        },
+        {
+            "id": 634168,
+            "word": "tribute",
+            "created_at": "2019-09-19T23:10:33.069+08:00",
+            "updated_at": "2019-09-19T23:10:33.069+08:00",
+            "text_content": {
+                "explanations": [
+                    {
+                        "word_types": [
+                            "n"
+                        ],
+                        "translations": [
+                            "致敬，致哀"
+                        ],
+                        "sentences": [
+                            "The mourners stood in tribute to the martyr at the funeral.",
+                            "在葬禮上，送葬者向這位烈士默立致哀。"
+                        ],
+                        "notes": [
+                            "[片語] pay (a）tribute to sb / sth 對⋯⋯表示讚賞 / 敬意",
+                            "[記憶法] 字根 tribut意為「付，贈與」。"
+                        ]
+                    }
+                ]
+            },
+            "tags": [],
+            "owner_id": 8142,
+            "word_root": null,
+            "notes": [],
+            "audio_urls": {
+                "us": [
+                    {
+                        "audio_url": "https://speech.wordup.com.tw/9a2f6353b6797162cc9e90f79f2dc46b34dcf00b562fe295dcfb71b21bd99e62.mp3"
+                    }
+                ],
+                "uk": [
+                    {
+                        "audio_url": "https://speech.wordup.com.tw/212ddb49bf97d82705e183e7c9b479550fa483bcfbb646eb5d824907e4182333.mp3"
+                    }
+                ]
+            },
+            "phonetics": {
+                "us": [
+                    {
+                        "phonetic": "ˋtrɪbjut"
+                    }
+                ],
+                "uk": [
+                    {
+                        "phonetic": "ˋtribju:t"
+                    }
+                ]
+            },
+            "language": "en",
+            "word_roots": [],
+            "position": 28,
+            "deck_section_id": 50246,
+            "deck_id": 11669395,
+            "student_note": null,
+            "score": 0
+        },
+        {
+            "id": 634167,
+            "word": "translucent",
+            "created_at": "2019-09-19T23:10:32.987+08:00",
+            "updated_at": "2019-09-19T23:10:32.987+08:00",
+            "text_content": {
+                "explanations": [
+                    {
+                        "word_types": [
+                            "adj"
+                        ],
+                        "translations": [
+                            "半透明的"
+                        ],
+                        "sentences": [
+                            "The worker went out of the store, translucent glass in hand.",
+                            "那位工人從店中走出來，手裡拿著一塊半透明玻璃。"
+                        ],
+                        "notes": [
+                            "[衍生字] translucence n.半透明",
+                            "[記憶法] 字首 trans-意為「穿過，橫穿」。",
+                            "[文法重點] 「名詞（代名詞） + 介系詞片語」構成的獨立主格結構，如果介系詞是in，其前後的兩個名詞均不用任何成分（例如物主代名詞或冠詞），亦不用複數形式。如例句所示。"
+                        ]
+                    }
+                ]
+            },
+            "tags": [],
+            "owner_id": 8142,
+            "word_root": null,
+            "notes": [],
+            "audio_urls": {
+                "us": [
+                    {
+                        "audio_url": "https://speech.wordup.com.tw/1c65f2783608a1c406c22e96dc798be97d14946f3e198a87bfa9deac92a0d531.mp3"
+                    }
+                ],
+                "uk": [
+                    {
+                        "audio_url": "https://speech.wordup.com.tw/3f6c230fff7d3dc01d7b7e7545deedee338c0c2598fe9dc9614d61cfa51d3d40.mp3"
+                    }
+                ]
+            },
+            "phonetics": {
+                "us": [
+                    {
+                        "phonetic": "trænsˋlusnt"
+                    }
+                ],
+                "uk": [
+                    {
+                        "phonetic": "trænsˋlu:sənt"
+                    }
+                ]
+            },
+            "language": "en",
+            "word_roots": [],
+            "position": 29,
+            "deck_section_id": 50246,
+            "deck_id": 11669395,
+            "student_note": null,
+            "score": 0
+        }
+    ],
+    "deck_sections": [
+        {
+            "id": 50246,
+            "deck_id": 50895,
+            "identifier": "default",
+            "name": null,
+            "description": null,
+            "created_at": "2020-12-08T00:00:24.776+08:00",
+            "updated_at": "2020-12-08T00:00:24.776+08:00"
+        }
+    ],
+    "meta": {
+        "deck_name": "Chapter 4 - 18",
+        "materail_id": "43",
+        "materail_name": "怪物講師教學團隊的IELTS雅思「單字」+「文法」"
+    }
+}
