@@ -30,7 +30,7 @@ fs.readFile('processedData.json', 'utf8', (err, data) => {
         }
     });
 
-    const jsonData = JSON.stringify(processedData, null, 2);
+    const jsonData = JSON.stringify(processedData, null, 0);
     fs.writeFile('scoreData.json', jsonData, 'utf8', (err) => {
         if (err) {
             console.error('寫入檔案時發生錯誤：', err);
