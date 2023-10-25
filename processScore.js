@@ -29,14 +29,11 @@ fs.readFile('processedData.json', 'utf8', (err, data) => {
     const uniqueArray = Object.keys(countMap);
 
     processedData.forEach(item => {
-        item.score = countMap[item.en];
         const regex = new RegExp(`\\b${item.en}\\b`, "gi");
         const targetSentence = allsentences.filter(el => el.en.match(regex));
         if (targetSentence.length > 0) {
             item.sentences = [...targetSentence];
-        } else {
-            item.score = 1;
-        }
+        } 
     });
 
     const enDict = {};
